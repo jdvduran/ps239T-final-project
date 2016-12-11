@@ -19,8 +19,11 @@ The data here is visualized with the use of word clouds to offer some insight in
 ### Data
 
 1. introtext.csv: Bill text for the first drafts of each collected from the LegiScan API
+         - This file is not uploaded because of GitHub's file size max
 2. lasttext.csv: Bill text for the last drafts of each collected from the LegiScan API
+         - This file is not uploaded because of GitHub's file size max
 3. alltextDISSIM.csv: The text for both drafts of each bill and their dissimilarity score (Ranging from 0-100)
+         - This file is not uploaded because of GitHub's file size max
 4. ALLGAcoded.csv: The text for both drafts of the bill, their dissimilarity score, and a binary indicator of whether or not the bill was subject to G&A
 5. GAsubset.csv: The subset of only G&A bills used for data visualization
 6. stoplist.csv: The list of words used as stop words in the text anaysis
